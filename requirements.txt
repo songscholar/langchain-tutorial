@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+chromadb
+defusedxml
+wikipedia
+faiss-cpu
+langchain_chroma
+toml
+streamlit==1.39.0
+langgraph
